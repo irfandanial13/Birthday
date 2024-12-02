@@ -4,8 +4,8 @@ const giftbox = document.getElementById('merrywrap');
 const canvasC = document.getElementById('c');
 
 const config = {
-  birthdate: 'Jan 29, 2020',
-  name: 'Nur Irdina Sofea Binti Nor Isman'
+  birthdate: 'Dec 16, 2020',
+  name: 'Nur Irdina Sofea '
 };
 
 function hideEverything() {
